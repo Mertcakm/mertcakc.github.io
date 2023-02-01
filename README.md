@@ -1,2 +1,2 @@
-# mertcakc.github.io
+# Merhaba
 Welcome to my GitHub page.
